@@ -20,3 +20,8 @@ It could get filtered out by Junk Email Filters.
 In addition, note that it is an Exchange account feature. To get similar functionality for POP3 and IMAP accounts see this guide instead."
 
 I needed AutoReply multiple times from the same address. 
+
+While the code complies to Python, two major updates are to be added.
+
+1) To set it to run for 15 minutes or give a user input to select how often they want it to run.
+2) Once that is completed, to freeze the code as an exectuible.
